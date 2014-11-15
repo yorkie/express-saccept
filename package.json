@@ -1,0 +1,26 @@
+{
+  "name": "express-saccept",
+  "version": "1.0.0",
+  "description": "Semantic HTTP accept middleware for expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/express-saccept.git"
+  },
+  "keywords": [
+    "semantic",
+    "version",
+    "accept",
+    "http",
+    "express"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/express-saccept/issues"
+  },
+  "homepage": "https://github.com/yorkie/express-saccept"
+}
