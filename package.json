@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/yorkie/express-saccept/issues"
   },
-  "homepage": "https://github.com/yorkie/express-saccept"
+  "homepage": "https://github.com/yorkie/express-saccept",
+  "dependencies": {
+    "saccept": "^1.0.0"
+  }
 }
